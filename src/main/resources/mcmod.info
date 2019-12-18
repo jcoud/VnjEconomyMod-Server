@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "vnjems",
+    "name": "VnjEconomyMod Server",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "jcoud"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
